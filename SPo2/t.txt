@@ -1,0 +1,4 @@
+if m=a;
+then nevottakvot;
+else 'yottakyot';
+if <>:==;
